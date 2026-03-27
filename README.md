@@ -11,8 +11,10 @@ This project aims to improve urban waste collection efficiency by analyzing wast
 ---
 ## 📸 Screenshots
 
-![Dashboard](screenshots/Screenshot 2026-03-05 114610.png)
-![Prediction](Screenshots/Screenshot 2026-03-05 114658.png)
+## 📸 Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+![Prediction](screenshots/prediction.png)
 
 ## 🎯 Key Features
 
