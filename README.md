@@ -9,6 +9,10 @@ An intelligent waste management system that prioritizes garbage collection reque
 This project aims to improve urban waste collection efficiency by analyzing waste conditions and generating a **priority score** for each request. The system ensures that high-risk waste (overflowing, contaminated, decomposing) is collected first.
 
 ---
+## 📸 Screenshots
+
+![Dashboard]("C:\Users\fathi\OneDrive\Desktop\screenshots\Screenshots\Screenshot 2026-03-05 114610.png")
+![Prediction]("C:\Users\fathi\OneDrive\Desktop\screenshots\Screenshots\Screenshot 2026-03-05 114658.png")
 
 ## 🎯 Key Features
 
