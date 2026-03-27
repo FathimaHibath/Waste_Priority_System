@@ -10,11 +10,6 @@ This project aims to improve urban waste collection efficiency by analyzing wast
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard](screenshots/dashboard.png)
-![Prediction](screenshots/prediction.png)
-
 ## 🎯 Key Features
 
 * 📦 **Fill-Level Detection** – Estimates how full a bin is
