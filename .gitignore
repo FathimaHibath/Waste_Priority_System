@@ -1,0 +1,22 @@
+# Virtual Environment
+waste_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Data (ignore ALL data folders inside)
+data/
+data/*
+
+# Images (extra safety)
+*.jpg
+*.png
+*.jpeg
+
+# OS files
+.DS_Store
+Thumbs.db
