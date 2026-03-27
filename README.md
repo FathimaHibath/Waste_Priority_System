@@ -11,7 +11,7 @@ This project aims to improve urban waste collection efficiency by analyzing wast
 ---
 ## 📸 Screenshots
 
-![Dashboard]("C:\Users\fathi\OneDrive\Desktop\screenshots\Screenshots\Screenshot 2026-03-05 114610.png")
+![Dashboard]("C:\MYFILES\VIT\MAIN PROJECT\Waste_Priority_System\screenshots\Screenshot 2026-03-05 114610.png")
 ![Prediction]("C:\Users\fathi\OneDrive\Desktop\screenshots\Screenshots\Screenshot 2026-03-05 114658.png")
 
 ## 🎯 Key Features
